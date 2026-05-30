@@ -20,4 +20,4 @@ python password_checker.py
 ```
 
 ## Intern ID
-Add your internship ID here.
+CITS2357
